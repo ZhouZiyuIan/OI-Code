@@ -1,0 +1,5 @@
+fuxiu.in : 样例输入
+ans.out : 样例输出
+pengde.out : 用户输出
+打开命令行,执行命令:
+./fx.exe fuxiu.in ans.out pengde.out

@@ -1,0 +1,5 @@
+data.in : 样例输入
+ans.out : 样例输出
+data.out : 用户输出
+打开命令行,执行命令:
+./spj.exe data.in ans.out data.out

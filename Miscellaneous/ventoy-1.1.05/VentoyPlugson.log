@@ -1,0 +1,18 @@
+[2025/06/04 20:24:44] ====================== Ventoy Plugson =========================
+[2025/06/04 20:24:44] Current Directory <C:\Users\118\Desktop\Miscellaneous\ventoy-1.1.05>
+[2025/06/04 20:24:44] Exe file path <C:\Users\118\Desktop\Miscellaneous\ventoy-1.1.05\VentoyPlugson.exe>
+[2025/06/04 20:24:44] Current directory check OK.
+[2025/06/04 20:24:44] ===============================================
+[2025/06/04 20:24:44] ========= Ventoy Plugson 127.0.0.1:24681 =========
+[2025/06/04 20:24:44] ===============================================
+[2025/06/04 20:24:44] ventoy disk init ...
+[2025/06/04 20:24:44] Partition offset is NOT 1MB. This is NOT ventoy image partition (122683392)
+[2025/06/04 20:24:44] C: is NOT ventoy disk
+[2025/06/04 20:24:44] Partition offset is NOT 1MB. This is NOT ventoy image partition (165529255936)
+[2025/06/04 20:24:44] D: is NOT ventoy disk
+[2025/06/04 20:24:44] E: is ventoy disk
+[2025/06/04 20:24:44] xzlen:1017864 rawdata size:3594240
+[2025/06/04 20:24:44] Plugson buildtime 20230623 19:05:00
+[2025/06/04 20:24:44] Total extract 129 files from tar file.
+[2025/06/04 20:24:46] VentoyStartService ...
+[2025/06/04 20:24:46] Start service at E: Kingston DataTraveler 3.0 1.1.05 ...
